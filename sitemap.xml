@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/docs/electronics-engineer/</loc>
+    <loc>https://tumxlegrobotics.github.io/docs/electronics-engineer/</loc>
     <lastmod>2024-10-18T09:49:01+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/embedded-systems/</loc>
+    <loc>https://tumxlegrobotics.github.io/docs/embedded-systems/</loc>
     <lastmod>2024-10-18T09:49:01+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/mechanical-engineer/</loc>
+    <loc>https://tumxlegrobotics.github.io/docs/mechanical-engineer/</loc>
     <lastmod>2024-10-18T09:49:01+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/news/</loc>
+    <loc>https://tumxlegrobotics.github.io/blog/news/</loc>
     <lastmod>2024-10-18T09:49:01+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/docs/</loc>
+    <loc>https://tumxlegrobotics.github.io/docs/</loc>
     <lastmod>2024-10-18T09:49:01+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/2024/10/16/open-call-for-students-willing-to-join/</loc>
+    <loc>https://tumxlegrobotics.github.io/blog/2024/10/16/open-call-for-students-willing-to-join/</loc>
+    <lastmod>2024-10-24T16:43:48+02:00</lastmod>
+  </url><url>
+    <loc>https://tumxlegrobotics.github.io/blog/</loc>
     <lastmod>2024-10-18T09:49:01+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://tumxlegrobotics.github.io/categories/</loc>
+  </url><url>
+    <loc>https://tumxlegrobotics.github.io/search/</loc>
     <lastmod>2024-10-18T09:49:01+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://tumxlegrobotics.github.io/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
-    <lastmod>2024-10-18T09:49:01+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-10-18T09:49:01+02:00</lastmod>
+    <loc>https://tumxlegrobotics.github.io/</loc>
+    <lastmod>2024-10-24T16:43:48+02:00</lastmod>
   </url>
 </urlset>
